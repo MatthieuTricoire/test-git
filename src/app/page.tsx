@@ -1,5 +1,5 @@
 import Image from "next/image";
 
 export default function Home() {
-  <div>Test de git : main version </div>;
+  <div>Test de git : dev demo </div>;
 }
